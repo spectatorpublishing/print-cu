@@ -1,0 +1,21 @@
+en:
+    helpers:
+        submit:
+            print:
+                create: "Print"
+        label:
+            print:
+                printer: "Printer"
+                building: "Building"
+                collate: "Collated?"
+                copies: "Number Of Copies:"
+                double_sided: "Double-sided?"
+    meta_description: "Print@CU is a service that allows Columbia University students to print to any printer on campus."
+    something_bad_happened: "Something Bad Happened"
+    title: "Print@CU"
+    success:
+        html:
+            one:
+                "Your document has been successfully sent to <strong>%{printer}</strong> under the pseudonym \"<strong>%{user}</strong>\"."
+            other:
+                "Your documents have been successfully sent to <strong>%{printer}</strong> under the pseudonym \"<strong>%{user}</strong>\"."
